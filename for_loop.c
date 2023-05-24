@@ -29,6 +29,7 @@ int main() {
     printf("\n\n");
     
     printf("Nested loops:\n");
+    
     for (i = 1; i <= 3; i++) {
         
         for (j = 1; j <= i; j++) {
