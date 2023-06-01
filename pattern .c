@@ -51,6 +51,7 @@ int main() {
 #include <stdio.h>
 
 int main() {
+    
     int rows, space, count = 0;
 
     printf("Enter the number of rows: ");
